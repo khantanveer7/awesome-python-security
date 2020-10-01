@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
 
-A curated list of awesome Python security related resources.
+A curated list of awesome Python security-related resources.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -30,16 +30,16 @@ Supported by: [GuardRails.io](https://www.guardrails.io)
 
 ## Multi tools
 
-- [hawkeye](https://github.com/hawkeyesec/scanner-cli) - Multi purpose security/vulnerability/risk scanning tool supporting Ruby, Node.js, Python, PHP and Java.
+- [hawkeye](https://github.com/hawkeyesec/scanner-cli) - Multi-purpose security/vulnerability/risk scanning tool supporting Ruby, Node.js, Python, PHP and Java.
 - [GuardRails](https://github.com/apps/guardrails) - A GitHub App that gives you instant security feedback in your Pull Requests.
 - [Hubble](https://github.com/hubblestack/hubble) - Hubble is a modular, open-source security compliance framework.
-- [Salus](https://github.com/coinbase/salus) - Multi purpose security scanning tool supporting Ruby, Node, Python and Go.
+- [Salus](https://github.com/coinbase/salus) - Multi-purpose security scanning tool supporting Ruby, Node, Python and Go.
 
 ## Static Code Analysis
 
 - [Bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [Pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications.
-- [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
+- [Detect Secrets](https://libraries.io/pypi/detect-secrets) - An enterprise-friendly way of detecting and preventing secrets in code.
 
 ## Vulnerabilities and Security Advisories
 
